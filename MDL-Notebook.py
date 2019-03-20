@@ -35,7 +35,7 @@ import numpy as np
 # In[2]:
 
 
-trainDf = pd.read_csv('/scratch/mdl31/CheXpert-v1.0-small/train.csv')
+trainDf = pd.read_csv('CheXpert-v1.0-small/train.csv')
 
 
 # In[3]:
